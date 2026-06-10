@@ -162,7 +162,7 @@ print(f"Fake Probability: {result['fake_prob']:.4f}")
 - ML: Logistic Regression, SVM, Random Forest, Gradient Boosting
 
 ## 👤 Author
-Generated as part of Fake News Detection Project
+SNEHA SHARMA
 
 ## 📄 License
 Open source - Use freely for education and research
